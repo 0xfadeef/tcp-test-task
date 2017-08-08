@@ -1,0 +1,9 @@
+!.gitignore
+
+server
+client
+*.o
+
+*.swp
+*.log
+*~
